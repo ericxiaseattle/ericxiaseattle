@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Weekly Stats (not syncing properly need to fix):
 <!--START_SECTION:waka-->
 ```text
 Python       1 hr 29 mins    ███████████████▓░░░░░░░░░   63.05 % 

@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 Weekly Stats (not syncing properly need to fix):
 <!--START_SECTION:waka-->
 ```text
-TeX      2 hrs 11 mins   ███████████░░░░░░░░░░░░░░   44.12 % 
-Python   1 hr 29 mins    ███████▒░░░░░░░░░░░░░░░░░   29.86 % 
-HTML     24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Java     21 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
-JSON     19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 % 
+TeX      3 hrs 8 mins    █████████████▒░░░░░░░░░░░   53.14 % 
+Python   1 hr 29 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.04 % 
+HTML     24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+Java     21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JSON     19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 ```
 <!--END_SECTION:waka-->

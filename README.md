@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Weekly Stats (not syncing properly need to fix):
 <!--START_SECTION:waka-->
 ```text
-TeX          3 hrs 13 mins   ███████████████████████▒░   93.14 % 
-XML          13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+TeX          2 hrs 15 mins   ██████████████████████▓░░   90.51 % 
+XML          13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 ```
 <!--END_SECTION:waka-->

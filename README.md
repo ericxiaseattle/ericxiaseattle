@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Weekly Stats (not syncing properly need to fix):
 <!--START_SECTION:waka-->
 ```text
-TeX          2 hrs 56 mins   ██████████████░░░░░░░░░░░   56.54 % 
-Python       2 hrs 12 mins   ██████████▓░░░░░░░░░░░░░░   42.64 % 
-Git Config   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+TeX          6 hrs 6 mins    ██████████████████▒░░░░░░   73.01 % 
+Python       2 hrs 12 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.48 % 
+Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
 ```
 <!--END_SECTION:waka-->

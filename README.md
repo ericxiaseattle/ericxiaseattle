@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Weekly Stats (not syncing properly need to fix):
+Weekly Stats:
 <!--START_SECTION:waka-->
 ```text
 TeX          7 hrs 36 mins   ███████████████████▒░░░░░   77.11 % 

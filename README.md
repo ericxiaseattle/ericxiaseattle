@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 Weekly Wakatime Stats:
 <!--START_SECTION:waka-->
 ```text
-TeX        3 hrs 19 mins   ████████████▓░░░░░░░░░░░░   50.63 % 
-Python     2 hrs 58 mins   ███████████▒░░░░░░░░░░░░░   45.30 % 
-JSON       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TeX        3 hrs 25 mins   █████████████░░░░░░░░░░░░   51.42 % 
+Python     2 hrs 58 mins   ███████████░░░░░░░░░░░░░░   44.56 % 
+JSON       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
 ```
 <!--END_SECTION:waka-->

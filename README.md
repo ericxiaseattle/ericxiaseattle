@@ -16,3 +16,7 @@ Python       4 mins          ▒░░░░░░░░░░░░░░░░
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 ```
 <!--END_SECTION:waka-->
+
+### Connect with me:
+
+[<img align="left" alt="ericxiaseattle | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]

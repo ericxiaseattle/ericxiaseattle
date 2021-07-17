@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!-- [![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericxiaseattle)](https://github.com/anuraghazra/github-readme-stats)-->
-![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericxiaseattle&hide=contribs,prs)
+![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericxiaseattle&hide=contribs,prs&show_icons=true)
 
 
 Weekly Wakatime Stats:

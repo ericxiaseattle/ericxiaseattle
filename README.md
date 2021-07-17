@@ -3,7 +3,7 @@
 <!-- [![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericxiaseattle)](https://github.com/anuraghazra/github-readme-stats)-->
 ![Eric's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ericxiaseattle&hide=contribs,prs&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericxiaseattle&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ericxiaseattle&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) -->
 
 [![Eric's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=ericxiaseattle)](https://github.com/anuraghazra/github-readme-stats)
 

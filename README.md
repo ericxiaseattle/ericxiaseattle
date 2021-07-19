@@ -3,10 +3,10 @@
 Weekly Wakatime Stats:
 <!--START_SECTION:waka-->
 ```text
-Java         2 hrs 15 mins   ████████████▒░░░░░░░░░░░░   49.58 % 
-TeX          2 hrs 11 mins   ████████████░░░░░░░░░░░░░   48.09 % 
-Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TeX          4 hrs 15 mins   ████████████████░░░░░░░░░   64.12 % 
+Java         2 hrs 16 mins   ████████▓░░░░░░░░░░░░░░░░   34.27 % 
+Python       4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 ```
 <!--END_SECTION:waka-->
 
